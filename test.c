@@ -22,7 +22,7 @@ int* solution(int prices[], size_t prices_len) {
             cnt = 0;
         
     }
-
+    // 테스트 변경사항
     return answer;
 }
 int main(void) {
