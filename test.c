@@ -23,6 +23,7 @@ int* solution(int prices[], size_t prices_len) {
         
     }
     // 테스트 변경사항
+    // 테스트 변경사항2
     return answer;
 }
 int main(void) {
